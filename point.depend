@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1540310223 source:c:\users\alumno-g\desktop\point\main.cpp
+	<iostream>
+	"point.h"
+
+1540308330 c:\users\alumno-g\desktop\point\include\point.h
+
+1540310487 source:c:\users\alumno-g\desktop\point\src\point.cpp
+	"point.h"
+	<iostream>
+
+1540478814 source:f:\c++\point\main.cpp
+	<iostream>
+	"point.h"
+	"VECTOR.H"
+	"pointarray.h"
+
+1540477090 f:\c++\point\include\point.h
+
+1540311866 source:f:\c++\point\src\point.cpp
+	"point.h"
+	<iostream>
+
+1540311866 source:e:\c++\point\src\point.cpp
+	"point.h"
+	<iostream>
+
+1540477090 e:\c++\point\include\point.h
+
+1540476638 source:e:\c++\point\src\pointarray.cpp
+	"pointarray.h"
+	<iostream>
+	"point.h"
+
+1540478762 e:\c++\point\include\pointarray.h
+	"point.h"
+	<iostream>
+
+1540478814 source:e:\c++\point\main.cpp
+	<iostream>
+	"point.h"
+	"VECTOR.H"
+	"pointarray.h"
+
+1540477700 e:\c++\point\include\vector.h
+	"point.h"
+	<iostream>
+
+1540477864 source:e:\c++\point\src\vector.cpp
+	"VECTOR.H"
+	<iostream>
+	"point.h"
+
+1540477700 f:\c++\point\include\vector.h
+	"point.h"
+	<iostream>
+
+1540930194 f:\c++\point\include\pointarray.h
+	"point.h"
+	<iostream>
+
+1540478832 source:f:\c++\point\src\pointarray.cpp
+	"pointarray.h"
+	<iostream>
+	"point.h"
+
+1540477864 source:f:\c++\point\src\vector.cpp
+	"VECTOR.H"
+	<iostream>
+	"point.h"
+
+1540934211 source:c:\users\public\documents\point\main.cpp
+	<iostream>
+	"point.h"
+	"VECTOR.H"
+	"pointarray.h"
+
+1540477090 c:\users\public\documents\point\include\point.h
+
+1540477700 c:\users\public\documents\point\include\vector.h
+	"point.h"
+	<iostream>
+
+1540933731 c:\users\public\documents\point\include\pointarray.h
+	"point.h"
+	<iostream>
+
+1540311866 source:c:\users\public\documents\point\src\point.cpp
+	"point.h"
+	<iostream>
+
+1540934129 source:c:\users\public\documents\point\src\pointarray.cpp
+	"pointarray.h"
+	<iostream>
+	"point.h"
+
+1540477864 source:c:\users\public\documents\point\src\vector.cpp
+	"VECTOR.H"
+	<iostream>
+	"point.h"
+
+1540927978 source:h:\c++ laboratorio\point\main.cpp
+	<iostream>
+	"point.h"
+	"VECTOR.H"
+	"pointarray.h"
+
+1540477090 h:\c++ laboratorio\point\include\point.h
+
+1540477700 h:\c++ laboratorio\point\include\vector.h
+	"point.h"
+	<iostream>
+
+1540933732 h:\c++ laboratorio\point\include\pointarray.h
+	"point.h"
+	<iostream>
+
+1540934328 source:h:\c++ laboratorio\point\src\pointarray.cpp
+	"pointarray.h"
+	<iostream>
+	"point.h"
+
+1540477864 source:h:\c++ laboratorio\point\src\vector.cpp
+	"VECTOR.H"
+	<iostream>
+	"point.h"
+
+1540927884 source:h:\c++ laboratorio\point\src\point.cpp
+	"point.h"
+	<iostream>
+
